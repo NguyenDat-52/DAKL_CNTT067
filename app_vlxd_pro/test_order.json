@@ -1,0 +1,19 @@
+{
+  "CustomerId": 1,
+  "ReceiverName": "Khách Hàng Test Mobile",
+  "ReceiverPhone": "0908123456",
+  "DeliveryAddress": "456 Xa Lộ Hà Nội, TP. Thủ Đức",
+  "Area": "Nội thành",
+  "ShippingFee": 150000,
+  "PaymentMethod": "Tiền mặt",
+  "ChooseDeposit": false,
+  "Note": "Test đặt hàng từ Flutter Mobile App",
+  "Items": [
+    {
+      "ProductId": 1,
+      "Quantity": 10,
+      "UnitPrice": 74000,
+      "Unit": "Bao"
+    }
+  ]
+}
